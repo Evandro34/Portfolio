@@ -21,7 +21,7 @@ public class TipoString {
 		var idade = 33;
 		var salario = 12345.987;
 		
-		System.out.printf("O senhor  %S %S tem  %d anos  e ganha R$ %f." ,nome,sobrenome,idade,salario);
+		System.out.printf("O senhor  %S %S tem  %d anos  e ganha R$ %.2f." ,nome,sobrenome,idade,salario);
 
 	}
 
