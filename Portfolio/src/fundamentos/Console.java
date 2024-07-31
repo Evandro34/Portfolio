@@ -24,7 +24,7 @@ public class Console {
 		System.out.println("Digite o seu sobrenome");
 		String sobrenome = entrada.nextLine();
 		
-		System.out.println("Digite o seu sobrenome");
+		System.out.println("Digite a sua idade");
 		int idade = entrada.nextInt();
 		
 		System.out.printf( " %s %s tem %d anos ",nome,sobrenome,idade);
