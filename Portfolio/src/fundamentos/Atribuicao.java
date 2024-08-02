@@ -15,6 +15,7 @@ public class Atribuicao {
 		c -= b;
 		c /= b;
 		c %= 2;
+		
 		System.out.println(c);
 
 	}
