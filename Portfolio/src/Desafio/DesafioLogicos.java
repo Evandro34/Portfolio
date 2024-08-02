@@ -21,7 +21,7 @@ public class DesafioLogicos {
 		
 		System.out.println("Comprou Sorvete ?" + comprouSorvete);
 		
-		System.out.println("Mais saudável?"+ maisSaudavel);
+		System.out.println("Mais saudável?" + maisSaudavel);
 
 	}
 
